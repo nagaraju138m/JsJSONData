@@ -1,0 +1,19 @@
+form{
+    border: 0.1px solid black;
+    padding: 14px 30px;
+    box-shadow: 10px 10px 10px 1px rgb(196, 191, 191);
+}
+h1{
+    color: red;
+}
+table{
+    background-color: rgb(130, 245, 245);
+    box-shadow: 10px 10px 10px 1px rgb(196, 191, 191);
+}
+img{
+    width: 70px;
+    
+}
+#cold{
+    padding-top: 30px;
+}
